@@ -5,10 +5,10 @@
 When all 9 squares are full, the game is over. Game should be coded with two 
 levels: a server level and a client level. Communications implemented with TCP. 
 Necessary software and equipments: </p>
-<li>
-<ol> Eclipse </ol>
-<ol> Java as programming language </ol>
-<ol> Java swing as GUI </ol>
-<ol> Communication will be implemented with tcp </ol>
-</li>
+<ol>
+<li> Eclipse </li>
+<li> Java as programming language </li>
+<li> Java swing as GUI </li>
+<li> Communication will be implemented with tcp </li>
+</ol>
 
