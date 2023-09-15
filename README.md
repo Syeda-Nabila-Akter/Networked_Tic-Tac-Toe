@@ -14,3 +14,7 @@ Necessary software and equipments: </p>
 <li> Communication will be implemented with tcp </li>
 </ol>
 
+<h2>The Handshaking</h2>
+<h3>Serverside</h3>
+<img src="report-img/1.jpg">
+
