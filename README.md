@@ -18,3 +18,17 @@ Necessary software and equipments: </p>
 <h3>Serverside</h3>
 <img src="report-img/1.jpg">
 
+<h3>Clientside</h3>
+<img src="report-img/2.jpg">
+
+<h3>The game class</h3>
+<img src="report-img/the-game-class-1.jpg">
+<img src="report-img/the-game-class-2.jpg">
+
+<h2>Result</h2>
+<h3>Asking for server or client to run the game</h3>
+<img src="report-img/run-1.jpg">
+
+<h3>Here, player 1 has won</h3>
+<img src="report-img/run-2.jpg">
+
